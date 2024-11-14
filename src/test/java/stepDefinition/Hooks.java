@@ -10,6 +10,10 @@ public class Hooks {
 		
 		System.out.println("****************");
 		System.out.println("Setup the entries in Netwroking database");
+		System.out.println("Setup the entries in Networking database");
+
+		System.out.println("Setup the entries in netro database");
+
 	}
 
 	@Before ("@UserLogin")
