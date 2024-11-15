@@ -26,6 +26,8 @@ public class Hooks {
 	@After 
 	public void Teardown() {
 		System.out.println("Clear the entries");
+		System.out.println("Clear the entries");
+		
 	}
 	
 }
