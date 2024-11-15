@@ -19,6 +19,7 @@ public class Hooks {
 	@Before ("@UserLogin")
 	public void Userlogin() {
 		System.out.println("");
+		System.out.println("uyaijij");
 		System.out.println("Setup the entries in userlogin database");
 	}
 	
